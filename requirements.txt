@@ -1,1 +1,3 @@
 # project dependencies
+pyodbc
+python-dotenv 
