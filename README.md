@@ -19,9 +19,10 @@ python-dotenv for database connectivity.
 
 The data used in this project found in dataset folfer for 2018 nad 2019. for 2021 and 2021 was accessed with private credection which i can not provide here.
 
-## Envirnoment Setup
+## Envirnoment Setups
 
-Run this command to install rewuired dependencies and libraties
+Run this command to install rewuired dependencies and libraties.
+
 pip install -r requirements.txt
 
 ## License
