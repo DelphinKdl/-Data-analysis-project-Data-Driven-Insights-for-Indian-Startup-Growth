@@ -21,7 +21,7 @@ The data used in this project found in dataset folfer for 2018 nad 2019. for 202
 
 ## Envirnoment Setups
 
-Run this command to install rewuired dependencies and libraties.
+Run this command to install rewuired dependencies and libraries.
 
 pip install -r requirements.txt
 
