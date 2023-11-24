@@ -1,82 +1,48 @@
 # Data-analysis-project-Data-Driven-Insights-for-Indian-Startup-Growth
 
-Welcome to the repository for the Data Analysis project commissioned by an Indian startup that recently secured funding. This project aims to provide valuable insights and actionable recommendations to optimize fund allocation and drive the company's growth and success.
+This project aims to provide data-driven insights into sectors of interest, and notable trends within the Indian startup ecosystem.
 
-**Column names and description:**
+## Project Overview
 
-- **Company/Brand**: Name of the company/start-up
+This repository contains the code and data for the "Data Driven Insight for Indian Startup Growth" project. The project focuses on analyzing the funds received by startup in the Indian startup ecosystem. The goal is to derive meaningful insights that can contribute to a better understanding of investment trends and opportunities within the Indian startup landscape.
 
-- **Founded**: Year start-up was founded
+## Table of Contents
 
-- **Sector**: Sector of service
+1. Introduction
+2. Data Sources
+3. Folder Structure
+4. Installation
+5. Usage
+6. Analysis
+7. Results
+8. License
 
-- **What it does**: Description about Company
+## Introduction
 
-- **Founders**: Founders of the Company
+In the increasingly dynamic field of Indian startups, understanding the flow of funds from investors is crucial for both entrepreneurs and investors. This project aims to provide data-driven insights into investment patterns, sectors of interest, and notable trends within the Indian startup ecosystem.
 
-- **Investor**: Investors
+## Built with
 
-- **Amount(\$)**: Raised fund
+The project uses Python programming language and various libraries such as pandas, numpy, matplotlib, seaborn, and pyodbc
+python-dotenv for database connectivity.
 
-- **Stage**: Round of funding reached
+## Data Sources
 
-## Scenario
+The data used in this project found in dataset folfer for 2018 nad 2019. for 2021 and 2021 was accessed with private credection which i can not provide here.
 
-Your team is trying to venture into the Indian start-up ecosystem. As the
-data expert of the team you are to investigate the ecosystem and propose
-the best course of action.
+## Folder Structure
 
-## Instructions
+.
+├── dataset/ # Raw for 2018 and 2019 data files
+├── notebooks/ # Jupyter notebooks for data exploration and analysis and Visualizations
+├── README.md # Project README file
+└── requirements.txt # Python dependencies
 
-Your task is to develop a unique story from this dataset by stating and
-testing a hypothesis, asking questions, perform analysis and share
-insights with appropriate visualisations.
+## Installation
 
-So as part of the project you are to:
+1. Clone the repository:
+   git clone https://github.com/DelphinKdl/-Data-analysis-project-Data-Driven-Insights-for-Indian-Startup-Growth
 
-- Ask questions
+2. Install the required dependencies:
 
-- Develop hypothesis
-
-- Process the data
-
-- Analyse the data
-
-- Visualise the data
-
-Upon completion compile these processes in a blog post and share your
-analysis on Medium, LinkedIn, Dev.to, personal blog or a suitable
-blogging website.
-
-# Rubric
-
-Data Processing:
-
-- **Excellent**: Described in detail the data cleaning process and
-  assumptions
-
-- **Good**: Gave a summary of the data cleaning process
-
-- **Fair**: Gave a bullet list of data cleaning process with short
-  sentences
-
-Hypothesis & Questions:
-
-- **Excellent**: Stated a hypothesis and asked at least 5 questions
-
-- **Good**: Stated a hypothesis and asked up to 4 questions
-
-- **Fair**: No hypothesis and asked up to 3 questions
-
-Analysis & Visualisation:
-
-- **Excellent**: Validated the hypothesis and answered all questions
-  listed earlier with appropriate charts. Used relevant diagrams and
-  charts to show analysis/metrics
-
-- **Good**: Validated the hypothesis and answered some of the
-  questions listed with appropriate charts. Used relevant diagrams but
-  might need some improvement.
-
-- **Fair**: Lack of clarity on whether the hypothesis was true or not.
-  Answered some of the questions listed.
+pip install -r requirements.txt
