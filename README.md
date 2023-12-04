@@ -24,9 +24,11 @@ Amount($): Funds raised. Float.
 Stage: Round of funding. String.
 
 ## Hypothesis
+
 (H1): The sector in which a startup operates can play a significant role in contributing to its success in India
 
 ## Conclusion
+
 Accept the Alternative hypothesis as a startup sector that operates can play a significant role in contributing  (Fintech, Retail, Education).
 
 ## Recommendation
