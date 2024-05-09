@@ -1,29 +1,38 @@
 # Data-analysis-project-Data-Driven-Insights-for-Indian-Startup-Growth
 
-This project aims to provide data-driven insights into sectors of interest, and notable trends within the Indian startup ecosystem.
+In this project, I explored the funding for Indian start-ups from 2018 to 2021 to help my hypothetical team which is trying to venture into the Indian start-up ecosystem make an informed decision.
 
-## Project Overview
+I used Python and Jupyter for this project.
 
-This repository contains the code and data for the "Data Driven Insight for Indian Startup Growth" project. The project focuses on analyzing the funds received by startup in the Indian startup ecosystem. The goal is to derive meaningful insights that can contribute to a better understanding of investment trends and opportunities within the Indian startup landscape.
 
-## Introduction
+## Column names and description:
 
-In the increasingly dynamic field of Indian startups, understanding the flow of funds from investors is crucial for both entrepreneurs and investors. This project aims to provide data-driven insights into investment patterns, sectors of interest, and notable trends within the Indian startup ecosystem.
+Company/Brand: Name of the company/start-up. String.
 
-## Built with
+Founded: Year start-up was founded. String.
 
-The project uses Python programming language and various libraries such as pandas, numpy, matplotlib, seaborn, and pyodbc
-python-dotenv for database connectivity.
+Sector: Sector of operation. String.
 
-## Data Sources
+What it does: Description of Company. String.
 
-The data used in this project found in dataset folfer for 2018 nad 2019. for 2021 and 2021 was accessed with private credection which i can not provide here.
+Founders: Founders of the Company. String.
 
-## Envirnoment Setups
+Investor: Investors. String.
 
-Run this command to install rewuired dependencies and libraries.
+Amount($): Funds raised. Float.
 
-pip install -r requirements.txt
+Stage: Round of funding. String.
+
+## Hypothesis
+
+(H1): The sector in which a startup operates can play a significant role in contributing to its success in India
+
+## Conclusion
+
+Accept the Alternative hypothesis as a startup sector that operates can play a significant role in contributing  (Fintech, Retail, Education).
+
+## Recommendation
+To the Team, Fintech start-ups headquartered in Mumbai received significantly higher amounts per deal than the average startup, so prioritize this intersection. Secondly, you may have to seek alternative sources of funding within the first year of operation as you look forward to a funding round. You may also research further into the other key sectors and locations to be better informed on available options.
 
 ## License
 
@@ -32,3 +41,8 @@ MIT License. Check LICENSE.md for more information.
 ## Acknowledgements
 
 Azubi Africa
+
+## Link to article on Medium: 
+
+https://medium.com/https://medium.com/@delphin.kaduli/data-driven-insight-for-indian-startup-growth-304b071b4937
+
