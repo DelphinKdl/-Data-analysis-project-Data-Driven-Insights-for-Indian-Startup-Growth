@@ -1,6 +1,8 @@
 # project dependencies
-pyodbc
-python-dotenv 
+
+
+pyodbc  # a package for creating connection strings to your remote database
+python-dotenv # a package for creating environment variables that will help you hide sensitve configuration informantion such as database credentials andAPI keys
 pandas
 numpy 
 matplotlib
