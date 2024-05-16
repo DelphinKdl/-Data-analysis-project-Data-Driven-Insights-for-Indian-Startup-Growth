@@ -7,3 +7,9 @@ pandas
 numpy 
 matplotlib
 seaborn
+fuzzywuzzy
+prettytable
+spicy
+scikit-posthocs
+pingouin
+scipy
