@@ -13,3 +13,4 @@ spicy
 scikit-posthocs
 pingouin
 scipy
+re
