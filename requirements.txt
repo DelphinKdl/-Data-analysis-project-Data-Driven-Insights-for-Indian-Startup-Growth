@@ -14,3 +14,4 @@ scikit-posthocs
 pingouin
 scipy
 re
+openpyxl
