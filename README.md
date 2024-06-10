@@ -47,16 +47,20 @@ Hypothesis 2
 
 **Alternate Hypothesis (Ha):** The location of a startup in a particular city significantly affects the amount of funding it receives.
 
-    Hypotheses justifications
+Hypotheses justifications
 
 **Hypothesis 1:** The technology sector is often seen as a high-growth area with substantial investment potential, which may lead to higher funding.
 
 **Hypothesis 2:** Certain cities might have more developed startup ecosystems, better infrastructure, and more active investment communities, which could impact funding amounts.
 **Hypotheses Test method:** ANOVA (Analysis of Variance) test was appropriate.
 
+## Power BI Dashboard
+        
+
 ## Conclusion
 
 The analysis suggests a dynamic and growing startup, with a diverse range of sectors attracting substantial funding. The concentration of funding in specific cities, such as **Bangalore, Mumbai, and Gurugram**, highlights the importance of geographical factors in the startup landscape. The upward trend in funding over the years, particularly the significant increase in 2021, indicates a robust and expanding startup ecosystem. However, it's essential to consider external factors and market conditions that may influence funding trends. The findings provide valuable insights for investors interested in **Technology, Finance, and Education** as the top sector in the startup ecosystem in India Startups where the total Investment was **$280.69B** in the total  amount.
+
 
 ## Recommendation
 To the Team, Technology, and Education start-ups headquartered in Bangalore, and Mumbai received significantly higher amounts per deal than the average startup, so prioritize this intersection. Secondly, you may have to seek alternative sources of funding within the first year of operation as you look forward to a funding round. You can also look into the other key sectors and locations to be better informed on available options.
