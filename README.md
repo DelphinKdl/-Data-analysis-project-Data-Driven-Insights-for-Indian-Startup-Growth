@@ -63,17 +63,22 @@ The analysis suggests a dynamic and growing startup, with a diverse range of sec
 
 
 ## Recommendation
-To the Team, Technology, and Education start-ups headquartered in Bangalore, and Mumbai received significantly higher amounts per deal than the average startup, so prioritize this intersection. Secondly, you may have to seek alternative sources of funding within the first year of operation as you look forward to a funding round. You can also look into the other key sectors and locations to be better informed on available options.
+To the Team, Technology, and Education start-ups headquartered in Bangalore, and Mumbai received significantly higher amounts per deal than the average startup, so prioritize this intersection. Secondly, you may have to seek alternative funding sources within the first year of operation as you look forward to a funding round. You can also look into the other key sectors and locations to be better informed on available options.
+## contributors
+
+Delphin Kaduli, Emmanuel Dadson, Uwineza Mireille, Ogochukwu Ogoegbulem and Ogochukwu Ogoegbulem
 
 ## License
 
-MIT License. Check LICENSE.md for more information.
+MIT License. Could you check LICENSE.md for more information?
 
 ## Acknowledgements
 
 Azubi Africa
 
-## Link to article on Medium: 
+## Link to article on Medium and dashboard: 
 
 https://medium.com/https://medium.com/@delphin.kaduli/data-driven-insight-for-indian-startup-growth-304b071b4937
+
+https://app.powerbi.com/groups/me/reports/17cf2f0d-287b-478a-8a45-817d5d242a13/?experience=power-bi
 
